@@ -1,4 +1,4 @@
-Minecraft Console Client
+WA-Console-Client
 ========================
 
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/ORelio/Minecraft-Console-Client?branch=Indev)](https://ci.appveyor.com/project/ORelio/minecraft-console-client)
